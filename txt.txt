@@ -1,0 +1,6 @@
+
+https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=8be14e82b1a2433e1c3843342cac9d52
+8be14e82b1a2433e1c3843342cac9d52
+
+https://www.npmjs.com/package/requests
+npm i requests

@@ -1,0 +1,23 @@
+{
+  "name": "weatherapiproject",
+  "version": "1.0.0",
+  "description": "creating a Weather app With Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADITHYAADHI06/weatherApiNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADITHYAADHI06/weatherApiNodeJs/issues"
+  },
+  "homepage": "https://github.com/ADITHYAADHI06/weatherApiNodeJs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "requests": "^0.3.0"
+  }
+}
